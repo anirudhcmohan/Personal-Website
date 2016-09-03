@@ -1,1 +1,3 @@
-# Revamp of my personal site
+# Personal Website
+
+## Adding new color to personal website
