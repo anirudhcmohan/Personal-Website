@@ -1,3 +1,3 @@
 # Personal Website
 
-## Adding new color to personal website
+Adding new color to personal website
